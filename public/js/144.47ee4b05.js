@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkback_plat"]=self["webpackChunkback_plat"]||[]).push([[144],{144:function(n,t,a){a.r(t),a.d(t,{default:function(){return f}});var c=a(4606);const e={class:"container"};function r(n,t,a,r,u,s){return(0,c.wg)(),(0,c.iD)("div",e," 小程序文件上传 ")}var u=(0,c.aZ)({setup(){}}),s=a(8906);const i=(0,s.Z)(u,[["render",r]]);var f=i}}]);
+//# sourceMappingURL=144.47ee4b05.js.map

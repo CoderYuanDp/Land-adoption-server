@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkback_plat"]=self["webpackChunkback_plat"]||[]).push([[47],{47:function(n,t,a){a.r(t),a.d(t,{default:function(){return i}});var u=a(4606);const c=(0,u._)("div",{class:"container"},null,-1);function e(n,t,a,e,r,l){return(0,u.wg)(),(0,u.iD)(u.HY,null,[c,(0,u.Uk)(" 用户管理 ")],64)}var r=(0,u.aZ)({setup(){}}),l=a(8906);const s=(0,l.Z)(r,[["render",e]]);var i=s}}]);
+//# sourceMappingURL=47.cbe5453d.js.map
